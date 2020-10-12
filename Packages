@@ -1,14 +1,16 @@
-Package: com.cytatsh.konami-iap
-Name: BENAMI Unlocker
+Package: sh.tat.konami-iap
 Version: 0.2.4
-Architecture: iphone-os-arm
-Description: A clone from dead origin cy.tat.sh
-Maintainer: brianchul <brianchul@gmail.com>
-Author: cy.tat.sh <empty@example.com>
-Section: Utilities
-Priority: extra
-Filename: ./debs//com.cytatsh.konami-iap_0.2.4_iphoneos-arm.deb
+Architecture: iphoneos-arm
+Maintainer: ZzZ
+Depends: mobilesubstrate
+Filename: ./debs/com.cytatsh.konami-iap_0.2.4_iphoneos-arm.deb
 Size: 15514
 MD5sum: c7ab6d54e5ef0473ff9125c3f4cec6d6
 SHA1: a4628b4464f0a84f4e3df9bc0e0be07287274496
 SHA256: 466bdc8d5654a5c10f73864da5d85f7c9acff16bc9b536ac2bb7d2922932c0b3
+Section: Tweaks
+Description: Unlocks all songs (including DLC) in BEMANI games.
+Author: ZzZ
+Installed-Size: 136
+Name: BEMANI Unlocker
+
